@@ -1,3 +1,3 @@
- Cs-D
+Cs-D
 devops Hackathon
 Cherry
